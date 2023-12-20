@@ -1,0 +1,10 @@
+# .dockerignore
+
+**/__pycache__/
+**/pytest_cache/
+
+.git/
+
+.vscode/
+
+tests/
